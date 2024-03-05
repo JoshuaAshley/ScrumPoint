@@ -1,0 +1,3 @@
+[submodule "ScrumPoint"]
+	path = ScrumPoint
+	url = https://github.com/BrandonCalitz-VC/ScrumPoint.git

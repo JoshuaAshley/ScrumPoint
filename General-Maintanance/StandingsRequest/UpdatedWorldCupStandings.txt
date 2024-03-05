@@ -1,0 +1,953 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "69",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 1,
+  "response": [
+    [
+      {
+        "position": 1,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group A"
+        },
+        "team": {
+          "id": 387,
+          "name": "France",
+          "logo": "https://media-4.api-sports.io/rugby/teams/387.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 4,
+            "percentage": "100.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 0,
+            "percentage": "0.00"
+          }
+        },
+        "goals": {
+          "for": 150,
+          "against": 25
+        },
+        "points": 18,
+        "form": "WWW",
+        "description": null
+      },
+      {
+        "position": 2,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group A"
+        },
+        "team": {
+          "id": 465,
+          "name": "New Zealand",
+          "logo": "https://media-4.api-sports.io/rugby/teams/465.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 3,
+            "percentage": "75.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 1,
+            "percentage": "25.00"
+          }
+        },
+        "goals": {
+          "for": 180,
+          "against": 47
+        },
+        "points": 15,
+        "form": "WWL",
+        "description": null
+      },
+      {
+        "position": 3,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group A"
+        },
+        "team": {
+          "id": 389,
+          "name": "Italy",
+          "logo": "https://media-4.api-sports.io/rugby/teams/389.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 2,
+            "percentage": "50.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "50.00"
+          }
+        },
+        "goals": {
+          "for": 107,
+          "against": 121
+        },
+        "points": 10,
+        "form": "LWW",
+        "description": null
+      },
+      {
+        "position": 4,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group A"
+        },
+        "team": {
+          "id": 470,
+          "name": "Uruguay",
+          "logo": "https://media-4.api-sports.io/rugby/teams/470.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 1,
+            "percentage": "25.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 3,
+            "percentage": "75.00"
+          }
+        },
+        "goals": {
+          "for": 65,
+          "against": 91
+        },
+        "points": 5,
+        "form": "WLL",
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group A"
+        },
+        "team": {
+          "id": 464,
+          "name": "Namibia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/464.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 4,
+            "percentage": "100.00"
+          }
+        },
+        "goals": {
+          "for": 37,
+          "against": 255
+        },
+        "points": 0,
+        "form": "LLLL",
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group B"
+        },
+        "team": {
+          "id": 388,
+          "name": "Ireland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/388.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 4,
+            "percentage": "100.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 0,
+            "percentage": "0.00"
+          }
+        },
+        "goals": {
+          "for": 154,
+          "against": 32
+        },
+        "points": 19,
+        "form": "WWW",
+        "description": null
+      },
+      {
+        "position": 2,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group B"
+        },
+        "team": {
+          "id": 467,
+          "name": "South Africa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/467.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 3,
+            "percentage": "75.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 1,
+            "percentage": "25.00"
+          }
+        },
+        "goals": {
+          "for": 102,
+          "against": 16
+        },
+        "points": 15,
+        "form": "LWW",
+        "description": null
+      },
+      {
+        "position": 3,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group B"
+        },
+        "team": {
+          "id": 390,
+          "name": "Scotland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/390.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 2,
+            "percentage": "50.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "50.00"
+          }
+        },
+        "goals": {
+          "for": 48,
+          "against": 35
+        },
+        "points": 10,
+        "form": "WL",
+        "description": null
+      },
+      {
+        "position": 4,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group B"
+        },
+        "team": {
+          "id": 468,
+          "name": "Tonga",
+          "logo": "https://media-4.api-sports.io/rugby/teams/468.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 1,
+            "percentage": "25.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 3,
+            "percentage": "75.00"
+          }
+        },
+        "goals": {
+          "for": 33,
+          "against": 104
+        },
+        "points": 5,
+        "form": "LL",
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group B"
+        },
+        "team": {
+          "id": 412,
+          "name": "Romania",
+          "logo": "https://media-4.api-sports.io/rugby/teams/412.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 4,
+            "percentage": "100.00"
+          }
+        },
+        "goals": {
+          "for": 8,
+          "against": 158
+        },
+        "points": 0,
+        "form": "LL",
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group C"
+        },
+        "team": {
+          "id": 391,
+          "name": "Wales",
+          "logo": "https://media-4.api-sports.io/rugby/teams/391.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 4,
+            "percentage": "100.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 0,
+            "percentage": "0.00"
+          }
+        },
+        "goals": {
+          "for": 100,
+          "against": 40
+        },
+        "points": 19,
+        "form": "WWW",
+        "description": null
+      },
+      {
+        "position": 2,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group C"
+        },
+        "team": {
+          "id": 28,
+          "name": "Fiji",
+          "logo": "https://media-4.api-sports.io/rugby/teams/28.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 2,
+            "percentage": "50.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "50.00"
+          }
+        },
+        "goals": {
+          "for": 48,
+          "against": 47
+        },
+        "points": 11,
+        "form": "WL",
+        "description": null
+      },
+      {
+        "position": 3,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group C"
+        },
+        "team": {
+          "id": 461,
+          "name": "Australia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/461.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 2,
+            "percentage": "50.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "50.00"
+          }
+        },
+        "goals": {
+          "for": 56,
+          "against": 77
+        },
+        "points": 11,
+        "form": "LLW",
+        "description": null
+      },
+      {
+        "position": 4,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group C"
+        },
+        "team": {
+          "id": 410,
+          "name": "Georgia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/410.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 0,
+            "percentage": "00.00"
+          },
+          "draw": {
+            "total": 1,
+            "percentage": "25.00"
+          },
+          "lose": {
+            "total": 3,
+            "percentage": "75.00"
+          }
+        },
+        "goals": {
+          "for": 33,
+          "against": 53
+        },
+        "points": 6,
+        "form": "L",
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group C"
+        },
+        "team": {
+          "id": 411,
+          "name": "Portugal",
+          "logo": "https://media-4.api-sports.io/rugby/teams/411.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 1,
+            "percentage": "25.00"
+          },
+          "draw": {
+            "total": 1,
+            "percentage": "25.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "50.00"
+          }
+        },
+        "goals": {
+          "for": 26,
+          "against": 46
+        },
+        "points": 3,
+        "form": "L",
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group D"
+        },
+        "team": {
+          "id": 386,
+          "name": "England",
+          "logo": "https://media-4.api-sports.io/rugby/teams/386.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 4,
+            "percentage": "100.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 0,
+            "percentage": "0.00"
+          }
+        },
+        "goals": {
+          "for": 132,
+          "against": 22
+        },
+        "points": 18,
+        "form": "WWW",
+        "description": null
+      },
+	{
+        "position": 2,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group D"
+        },
+        "team": {
+          "id": 460,
+          "name": "Argentina",
+          "logo": "https://media-4.api-sports.io/rugby/teams/460.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 3,
+            "percentage": "75.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "25.00"
+          }
+        },
+        "goals": {
+          "for": 29,
+          "against": 37
+        },
+        "points": 14,
+        "form": "WL",
+        "description": null
+      },
+      {
+        "position": 3,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group D"
+        },
+        "team": {
+          "id": 463,
+          "name": "Japan",
+          "logo": "https://media-4.api-sports.io/rugby/teams/463.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 2,
+            "percentage": "50.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 2,
+            "percentage": "50.00"
+          }
+        },
+        "goals": {
+          "for": 82,
+          "against": 68
+        },
+        "points": 9,
+        "form": "WLW",
+        "description": null
+      },
+      {
+        "position": 4,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group D"
+        },
+        "team": {
+          "id": 466,
+          "name": "Samoa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/466.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 1,
+            "percentage": "25.00"
+          },
+          "draw": {
+            "total": 1,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 3,
+            "percentage": "75.00"
+          }
+        },
+        "goals": {
+          "for": 75,
+          "against": 57
+        },
+        "points": 7,
+        "form": "LLW",
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "World Cup",
+        "group": {
+          "name": "Group D"
+        },
+        "team": {
+          "id": 639,
+          "name": "Chile",
+          "logo": "https://media-4.api-sports.io/rugby/teams/639.png"
+        },
+        "league": {
+          "id": 69,
+          "name": "World Cup",
+          "type": "cup",
+          "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+          "season": 2023
+        },
+        "country": {
+          "id": 26,
+          "name": "World",
+          "code": null,
+          "flag": null
+        },
+        "games": {
+          "played": 4,
+          "win": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "draw": {
+            "total": 0,
+            "percentage": "0.00"
+          },
+          "lose": {
+            "total": 4,
+            "percentage": "100.00"
+          }
+        },
+        "goals": {
+          "for": 22,
+          "against": 156
+        },
+        "points": 0,
+        "form": "LLL",
+        "description": null
+      }
+    ]
+  ]
+}

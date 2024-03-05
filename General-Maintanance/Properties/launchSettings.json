@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "General_Maintanance": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7157",
+      "launchBrowser": false
+    }
+  }
+}
