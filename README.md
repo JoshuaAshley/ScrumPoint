@@ -78,22 +78,22 @@ All information can be found here, [documentation](https://github.com/JoshuaAshl
 
 ## Developer/s
 
-### Joshua Ashley
+### Joshua Ashley (Team Manager and Backend Developer)
 | [Email](mailto:st10060590@vcconnect.edu.za)        |[LinkedIn](https://www.linkedin.com/in/joshua-ashley-857001227/)         |
 | ---------------------------------------------------|------------------------------------------------------------------------:|
 
-### Dane Govender
+### Dane Govender (UI/UX Developer and Documentation)
 | [Email](mailto:st10176744@vcconnect.edu.za)        |[LinkedIn](https://www.linkedin.com/in/govenderdane/)                  |
 | ---------------------------------------------------|------------------------------------------------------------------------:|
 
-### Brandon Calitz
+### Brandon Calitz (Frontend Developer)
 | [Email](mailto:st10039352@vcconnect.edu.za)        |[LinkedIn]()         |
 | ---------------------------------------------------|------------------------------------------------------------------------:|
 
-### Keagan Thorp
+### Keagan Thorp (Database Designer and Administrator)
 | [Email](mailto:st10038569@vcconnect.edu.za)        |[LinkedIn]()         |
 | ---------------------------------------------------|------------------------------------------------------------------------:|
 
-### Toby Dwyer
+### Toby Dwyer (Frontend Developer)
 | [Email](mailto:st10019602@vcconnect.edu.za)        |[LinkedIn]()         |
 | ---------------------------------------------------|------------------------------------------------------------------------:|
