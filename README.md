@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="600" height="auto" src="https://github.com/JoshuaAshley/ScrumPoint/blob/main/DIAGRAMS/ScrumPoint_Logo.jpg" alt="ScrumPoint Logo">
+  <img width="200" height="auto" src="https://github.com/JoshuaAshley/ScrumPoint/blob/main/DIAGRAMS/ScrumPoint_Logo.jpg" alt="ScrumPoint Logo">
 </p>
 
 
