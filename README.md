@@ -73,7 +73,7 @@ efficient process ensures the seamless functioning of the Prediction System,
 contributing to a comprehensive and responsive website.
 
 ### Frontend and Deployment
-The website was created with ReactNative using static pages. The website was deployed with Vercel and at the time ran perfectly, but to this day, for college cost purposes, the Azure function apps and data storage have been deactivated and deleted thus the website no longer works as intended. However, all the code still exists within each folder named with the corresponding function.<br/>
+The website was created with NextJS using static pages. The website was deployed with Vercel and at the time ran perfectly, but to this day, for college cost purposes, the Azure function apps and data storage have been deactivated and deleted thus the website no longer works as intended. However, all the code still exists within each folder named with the corresponding function.<br/>
 All information can be found here, [documentation](https://github.com/JoshuaAshley/ScrumPoint/blob/main/DOCUMENTATION/Documentation.pdf).
 
 ## Developer/s
