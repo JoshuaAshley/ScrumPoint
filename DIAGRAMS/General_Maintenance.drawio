@@ -1,0 +1,121 @@
+<mxfile host="Electron" modified="2023-11-20T10:55:45.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="_2h1QeaPDboYtGpzeNKB" version="22.1.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2100" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="KlextuV2hg8m_XJMofuQ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="109.5" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-0" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;General Maintenance&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="228.75" y="50" width="369" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Basic Logic&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="289" y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-3" value="Gets data from API or Blob storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="82" y="280" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-8" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-3" target="KlextuV2hg8m_XJMofuQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406.82" y="310" as="sourcePoint" />
+            <mxPoint x="406.82" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-10" value="Is key field new?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="352" y="245" width="122.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-10" target="KlextuV2hg8m_XJMofuQ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532" y="380" as="sourcePoint" />
+            <mxPoint x="542" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="468.25" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-14" target="KlextuV2hg8m_XJMofuQ-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="766" y="300" />
+              <mxPoint x="766" y="750" />
+              <mxPoint x="581" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-14" value="Add new record to the DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="571" y="280" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-10" target="KlextuV2hg8m_XJMofuQ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406.8" y="470" as="sourcePoint" />
+            <mxPoint x="407" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="422" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-18" value="Get data from the DB with the same key field" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="82" y="410" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-18" target="KlextuV2hg8m_XJMofuQ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374.82" y="580" as="sourcePoint" />
+            <mxPoint x="374.82" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-20" value="Is the DB data&lt;br&gt;the same as&lt;br&gt;API data?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="375" width="122.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-20" target="KlextuV2hg8m_XJMofuQ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="650" as="sourcePoint" />
+            <mxPoint x="730" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="430" />
+              <mxPoint x="720" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="638.5" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-20" target="KlextuV2hg8m_XJMofuQ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374.8" y="740" as="sourcePoint" />
+            <mxPoint x="580" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="470" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-26" value="Update DB fields that have chnaged" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="493.75" y="550" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KlextuV2hg8m_XJMofuQ-26" target="KlextuV2hg8m_XJMofuQ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597.75" y="620" as="sourcePoint" />
+            <mxPoint x="597.75" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-28" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="521.25" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80.25" y="530" width="388" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-31" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Notes&lt;/b&gt;:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlextuV2hg8m_XJMofuQ-32" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- This logic is for the Standings and Matches.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; line-height: 120%;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Team and Pool data does not change. Only new&amp;nbsp; &amp;nbsp; &amp;nbsp;records are added.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-For matches, when a match is finished, the&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;function will send a queue message to the storage.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="570" width="370" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

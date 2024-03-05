@@ -1,0 +1,2371 @@
+{
+  "get": "games",
+  "parameters": {
+    "league": "69",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 46,
+  "response": [
+    {
+      "id": 16954,
+      "date": "2023-09-08T19:15:00+00:00",
+      "time": "19:15",
+      "timestamp": 1694200500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 387,
+          "name": "France",
+          "logo": "https://media-4.api-sports.io/rugby/teams/387.png"
+        },
+        "away": {
+          "id": 465,
+          "name": "New Zealand",
+          "logo": "https://media-4.api-sports.io/rugby/teams/465.png"
+        }
+      },
+      "scores": {
+        "home": 27,
+        "away": 13
+      },
+      "periods": {
+        "first": {
+          "home": 9,
+          "away": 8
+        },
+        "second": {
+          "home": 18,
+          "away": 5
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40846,
+      "date": "2023-09-09T11:00:00+00:00",
+      "time": "11:00",
+      "timestamp": 1694257200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 389,
+          "name": "Italy",
+          "logo": "https://media-4.api-sports.io/rugby/teams/389.png"
+        },
+        "away": {
+          "id": 464,
+          "name": "Namibia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/464.png"
+        }
+      },
+      "scores": {
+        "home": 52,
+        "away": 8
+      },
+      "periods": {
+        "first": {
+          "home": 17,
+          "away": 8
+        },
+        "second": {
+          "home": 35,
+          "away": 0
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40847,
+      "date": "2023-09-09T13:30:00+00:00",
+      "time": "13:30",
+      "timestamp": 1694266200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 388,
+          "name": "Ireland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/388.png"
+        },
+        "away": {
+          "id": 412,
+          "name": "Romania",
+          "logo": "https://media-4.api-sports.io/rugby/teams/412.png"
+        }
+      },
+      "scores": {
+        "home": 82,
+        "away": 8
+      },
+      "periods": {
+        "first": {
+          "home": 33,
+          "away": 8
+        },
+        "second": {
+          "home": 49,
+          "away": 0
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40848,
+      "date": "2023-09-09T16:00:00+00:00",
+      "time": "16:00",
+      "timestamp": 1694275200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 461,
+          "name": "Australia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/461.png"
+        },
+        "away": {
+          "id": 410,
+          "name": "Georgia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/410.png"
+        }
+      },
+      "scores": {
+        "home": 35,
+        "away": 15
+      },
+      "periods": {
+        "first": {
+          "home": 21,
+          "away": 3
+        },
+        "second": {
+          "home": 14,
+          "away": 12
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16955,
+      "date": "2023-09-09T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1694286000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 386,
+          "name": "England",
+          "logo": "https://media-4.api-sports.io/rugby/teams/386.png"
+        },
+        "away": {
+          "id": 460,
+          "name": "Argentina",
+          "logo": "https://media-4.api-sports.io/rugby/teams/460.png"
+        }
+      },
+      "scores": {
+        "home": 27,
+        "away": 10
+      },
+      "periods": {
+        "first": {
+          "home": 12,
+          "away": 3
+        },
+        "second": {
+          "home": 15,
+          "away": 7
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40849,
+      "date": "2023-09-10T11:00:00+00:00",
+      "time": "11:00",
+      "timestamp": 1694343600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 463,
+          "name": "Japan",
+          "logo": "https://media-4.api-sports.io/rugby/teams/463.png"
+        },
+        "away": {
+          "id": 639,
+          "name": "Chile",
+          "logo": "https://media-4.api-sports.io/rugby/teams/639.png"
+        }
+      },
+      "scores": {
+        "home": 42,
+        "away": 12
+      },
+      "periods": {
+        "first": {
+          "home": 21,
+          "away": 7
+        },
+        "second": {
+          "home": 21,
+          "away": 5
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16956,
+      "date": "2023-09-10T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1694360700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 467,
+          "name": "South Africa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/467.png"
+        },
+        "away": {
+          "id": 390,
+          "name": "Scotland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/390.png"
+        }
+      },
+      "scores": {
+        "home": 18,
+        "away": 3
+      },
+      "periods": {
+        "first": {
+          "home": 6,
+          "away": 3
+        },
+        "second": {
+          "home": 12,
+          "away": 0
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16957,
+      "date": "2023-09-10T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1694372400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 391,
+          "name": "Wales",
+          "logo": "https://media-4.api-sports.io/rugby/teams/391.png"
+        },
+        "away": {
+          "id": 28,
+          "name": "Fiji",
+          "logo": "https://media-4.api-sports.io/rugby/teams/28.png"
+        }
+      },
+      "scores": {
+        "home": 32,
+        "away": 26
+      },
+      "periods": {
+        "first": {
+          "home": 18,
+          "away": 14
+        },
+        "second": {
+          "home": 14,
+          "away": 12
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40850,
+      "date": "2023-09-14T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1694718000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 387,
+          "name": "France",
+          "logo": "https://media-4.api-sports.io/rugby/teams/387.png"
+        },
+        "away": {
+          "id": 470,
+          "name": "Uruguay",
+          "logo": "https://media-4.api-sports.io/rugby/teams/470.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40851,
+      "date": "2023-09-15T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1694804400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 465,
+          "name": "New Zealand",
+          "logo": "https://media-4.api-sports.io/rugby/teams/465.png"
+        },
+        "away": {
+          "id": 464,
+          "name": "Namibia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/464.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40852,
+      "date": "2023-09-16T13:00:00+00:00",
+      "time": "13:00",
+      "timestamp": 1694869200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 466,
+          "name": "Samoa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/466.png"
+        },
+        "away": {
+          "id": 639,
+          "name": "Chile",
+          "logo": "https://media-4.api-sports.io/rugby/teams/639.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40853,
+      "date": "2023-09-16T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1694879100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 391,
+          "name": "Wales",
+          "logo": "https://media-4.api-sports.io/rugby/teams/391.png"
+        },
+        "away": {
+          "id": 411,
+          "name": "Portugal",
+          "logo": "https://media-4.api-sports.io/rugby/teams/411.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40854,
+      "date": "2023-09-16T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1694890800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 388,
+          "name": "Ireland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/388.png"
+        },
+        "away": {
+          "id": 468,
+          "name": "Tonga",
+          "logo": "https://media-4.api-sports.io/rugby/teams/468.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40855,
+      "date": "2023-09-17T13:00:00+00:00",
+      "time": "13:00",
+      "timestamp": 1694955600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 467,
+          "name": "South Africa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/467.png"
+        },
+        "away": {
+          "id": 412,
+          "name": "Romania",
+          "logo": "https://media-4.api-sports.io/rugby/teams/412.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16958,
+      "date": "2023-09-17T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1694965500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 461,
+          "name": "Australia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/461.png"
+        },
+        "away": {
+          "id": 28,
+          "name": "Fiji",
+          "logo": "https://media-4.api-sports.io/rugby/teams/28.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16959,
+      "date": "2023-09-17T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1694977200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 386,
+          "name": "England",
+          "logo": "https://media-4.api-sports.io/rugby/teams/386.png"
+        },
+        "away": {
+          "id": 463,
+          "name": "Japan",
+          "logo": "https://media-4.api-sports.io/rugby/teams/463.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40856,
+      "date": "2023-09-20T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1695224700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 389,
+          "name": "Italy",
+          "logo": "https://media-4.api-sports.io/rugby/teams/389.png"
+        },
+        "away": {
+          "id": 470,
+          "name": "Uruguay",
+          "logo": "https://media-4.api-sports.io/rugby/teams/470.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40857,
+      "date": "2023-09-21T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1695322800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 387,
+          "name": "France",
+          "logo": "https://media-4.api-sports.io/rugby/teams/387.png"
+        },
+        "away": {
+          "id": 464,
+          "name": "Namibia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/464.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16960,
+      "date": "2023-09-22T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1695397500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 460,
+          "name": "Argentina",
+          "logo": "https://media-4.api-sports.io/rugby/teams/460.png"
+        },
+        "away": {
+          "id": 466,
+          "name": "Samoa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/466.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40858,
+      "date": "2023-09-23T12:00:00+00:00",
+      "time": "12:00",
+      "timestamp": 1695470400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 410,
+          "name": "Georgia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/410.png"
+        },
+        "away": {
+          "id": 411,
+          "name": "Portugal",
+          "logo": "https://media-4.api-sports.io/rugby/teams/411.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40859,
+      "date": "2023-09-23T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1695483900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 386,
+          "name": "England",
+          "logo": "https://media-4.api-sports.io/rugby/teams/386.png"
+        },
+        "away": {
+          "id": 639,
+          "name": "Chile",
+          "logo": "https://media-4.api-sports.io/rugby/teams/639.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16961,
+      "date": "2023-09-23T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1695495600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 467,
+          "name": "South Africa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/467.png"
+        },
+        "away": {
+          "id": 388,
+          "name": "Ireland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/388.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40860,
+      "date": "2023-09-24T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1695570300,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 390,
+          "name": "Scotland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/390.png"
+        },
+        "away": {
+          "id": 468,
+          "name": "Tonga",
+          "logo": "https://media-4.api-sports.io/rugby/teams/468.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16962,
+      "date": "2023-09-24T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1695582000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 391,
+          "name": "Wales",
+          "logo": "https://media-4.api-sports.io/rugby/teams/391.png"
+        },
+        "away": {
+          "id": 461,
+          "name": "Australia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/461.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40861,
+      "date": "2023-09-27T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1695829500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 470,
+          "name": "Uruguay",
+          "logo": "https://media-4.api-sports.io/rugby/teams/470.png"
+        },
+        "away": {
+          "id": 464,
+          "name": "Namibia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/464.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16963,
+      "date": "2023-09-28T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1695927600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 463,
+          "name": "Japan",
+          "logo": "https://media-4.api-sports.io/rugby/teams/463.png"
+        },
+        "away": {
+          "id": 466,
+          "name": "Samoa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/466.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16964,
+      "date": "2023-09-29T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696014000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 465,
+          "name": "New Zealand",
+          "logo": "https://media-4.api-sports.io/rugby/teams/465.png"
+        },
+        "away": {
+          "id": 389,
+          "name": "Italy",
+          "logo": "https://media-4.api-sports.io/rugby/teams/389.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40862,
+      "date": "2023-09-30T13:00:00+00:00",
+      "time": "13:00",
+      "timestamp": 1696078800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 460,
+          "name": "Argentina",
+          "logo": "https://media-4.api-sports.io/rugby/teams/460.png"
+        },
+        "away": {
+          "id": 639,
+          "name": "Chile",
+          "logo": "https://media-4.api-sports.io/rugby/teams/639.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40863,
+      "date": "2023-09-30T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1696088700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 28,
+          "name": "Fiji",
+          "logo": "https://media-4.api-sports.io/rugby/teams/28.png"
+        },
+        "away": {
+          "id": 410,
+          "name": "Georgia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/410.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40864,
+      "date": "2023-09-30T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696100400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 390,
+          "name": "Scotland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/390.png"
+        },
+        "away": {
+          "id": 412,
+          "name": "Romania",
+          "logo": "https://media-4.api-sports.io/rugby/teams/412.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40865,
+      "date": "2023-10-01T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1696175100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 461,
+          "name": "Australia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/461.png"
+        },
+        "away": {
+          "id": 411,
+          "name": "Portugal",
+          "logo": "https://media-4.api-sports.io/rugby/teams/411.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40866,
+      "date": "2023-10-01T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696186800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 467,
+          "name": "South Africa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/467.png"
+        },
+        "away": {
+          "id": 468,
+          "name": "Tonga",
+          "logo": "https://media-4.api-sports.io/rugby/teams/468.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40867,
+      "date": "2023-10-05T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696532400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 465,
+          "name": "New Zealand",
+          "logo": "https://media-4.api-sports.io/rugby/teams/465.png"
+        },
+        "away": {
+          "id": 470,
+          "name": "Uruguay",
+          "logo": "https://media-4.api-sports.io/rugby/teams/470.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16965,
+      "date": "2023-10-06T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696618800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 387,
+          "name": "France",
+          "logo": "https://media-4.api-sports.io/rugby/teams/387.png"
+        },
+        "away": {
+          "id": 389,
+          "name": "Italy",
+          "logo": "https://media-4.api-sports.io/rugby/teams/389.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40868,
+      "date": "2023-10-07T13:00:00+00:00",
+      "time": "13:00",
+      "timestamp": 1696683600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 391,
+          "name": "Wales",
+          "logo": "https://media-4.api-sports.io/rugby/teams/391.png"
+        },
+        "away": {
+          "id": 410,
+          "name": "Georgia",
+          "logo": "https://media-4.api-sports.io/rugby/teams/410.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16966,
+      "date": "2023-10-07T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1696693500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 386,
+          "name": "England",
+          "logo": "https://media-4.api-sports.io/rugby/teams/386.png"
+        },
+        "away": {
+          "id": 466,
+          "name": "Samoa",
+          "logo": "https://media-4.api-sports.io/rugby/teams/466.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16967,
+      "date": "2023-10-07T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696705200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 388,
+          "name": "Ireland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/388.png"
+        },
+        "away": {
+          "id": 390,
+          "name": "Scotland",
+          "logo": "https://media-4.api-sports.io/rugby/teams/390.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 16968,
+      "date": "2023-10-08T11:00:00+00:00",
+      "time": "11:00",
+      "timestamp": 1696762800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 463,
+          "name": "Japan",
+          "logo": "https://media-4.api-sports.io/rugby/teams/463.png"
+        },
+        "away": {
+          "id": 460,
+          "name": "Argentina",
+          "logo": "https://media-4.api-sports.io/rugby/teams/460.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40869,
+      "date": "2023-10-08T15:45:00+00:00",
+      "time": "15:45",
+      "timestamp": 1696779900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 468,
+          "name": "Tonga",
+          "logo": "https://media-4.api-sports.io/rugby/teams/468.png"
+        },
+        "away": {
+          "id": 412,
+          "name": "Romania",
+          "logo": "https://media-4.api-sports.io/rugby/teams/412.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 40870,
+      "date": "2023-10-08T19:00:00+00:00",
+      "time": "19:00",
+      "timestamp": 1696791600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 26,
+        "name": "World",
+        "code": null,
+        "flag": null
+      },
+      "league": {
+        "id": 69,
+        "name": "World Cup",
+        "type": "Cup",
+        "logo": "https://media-4.api-sports.io/rugby/leagues/69.png",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 28,
+          "name": "Fiji",
+          "logo": "https://media-4.api-sports.io/rugby/teams/28.png"
+        },
+        "away": {
+          "id": 411,
+          "name": "Portugal",
+          "logo": "https://media-4.api-sports.io/rugby/teams/411.png"
+        }
+      },
+      "scores": {
+        "home": null,
+        "away": null
+      },
+      "periods": {
+        "first": {
+          "home": null,
+          "away": null
+        },
+        "second": {
+          "home": null,
+          "away": null
+        },
+        "overtime": {
+          "home": null,
+          "away": null
+        },
+        "second_overtime": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}
