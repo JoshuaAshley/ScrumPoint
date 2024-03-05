@@ -1,9 +1,9 @@
-# Bazaar Books
+# ScrumPoint
 <p align = "center">
 </p>
 
 <p align="center">
-  <img width="600" height="auto" src="https://github.com/PROG7311-VCDN-2024/bazaar-books/blob/master/Files/BazaarBooksLogo.jpg" alt="Bazaar Books Logo">
+  <img width="600" height="auto" src="https://github.com/JoshuaAshley/ScrumPoint/blob/main/DIAGRAMS/ScrumPoint_Logo.jpg" alt="ScrumPoint Logo">
 </p>
 
 
